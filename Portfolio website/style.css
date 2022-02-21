@@ -1,0 +1,39 @@
+/*  ***************************************Tag Selectors ******************************************** */
+
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+
+width: 30%;
+margin: 4% auto 0 auto;
+}
+div{
+    padding-top: 5%;
+}
+
+
+
+/* ***************************************** Class Slectors ******************************************* */
+.top-container{
+    background-color: rosybrown;
+}
+.middle-container {
+background-color: red;
+height: 200px;
+width: 200px;
+}
+.bottom-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    }
+.bottom-cloud{
+   position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    margin-left: 15%;
+}
